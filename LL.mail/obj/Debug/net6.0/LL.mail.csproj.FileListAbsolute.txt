@@ -1,0 +1,11 @@
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\bin\Debug\net6.0\LL.mail.deps.json
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\bin\Debug\net6.0\LL.mail.dll
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\bin\Debug\net6.0\ref\LL.mail.dll
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\bin\Debug\net6.0\LL.mail.pdb
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\obj\Debug\net6.0\LL.mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\obj\Debug\net6.0\LL.mail.AssemblyInfoInputs.cache
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\obj\Debug\net6.0\LL.mail.AssemblyInfo.cs
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\obj\Debug\net6.0\LL.mail.csproj.CoreCompileInputs.cache
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\obj\Debug\net6.0\LL.mail.dll
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\obj\Debug\net6.0\ref\LL.mail.dll
+C:\Users\Lee\Desktop\新增資料夾\LL.mail\LL.mail\obj\Debug\net6.0\LL.mail.pdb

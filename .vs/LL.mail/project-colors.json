@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b150ad12-2a70-4fc8-ba6b-00b8420d871a": {
+      "ProjectGuid": "b150ad12-2a70-4fc8-ba6b-00b8420d871a",
+      "DisplayName": "LL.mail",
+      "ColorIndex": 0
+    },
+    "a8c11bf6-ccfd-4c69-9153-0515207af1b2": {
+      "ProjectGuid": "a8c11bf6-ccfd-4c69-9153-0515207af1b2",
+      "DisplayName": "LL.mailTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
